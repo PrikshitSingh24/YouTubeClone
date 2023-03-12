@@ -1,16 +1,6 @@
-# randomuidesign
+# YouTube Clone 
+Made using flutter SDK in android studio...
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/99068054/224524945-56a0faec-a0f8-44dc-bafd-2d1cc69e69b2.png" width=250 height=550>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/99068054/224524948-1c1623bc-c99c-4f29-97a4-7759d3893de7.png" width=250 height=550>
